@@ -1,0 +1,17 @@
+##第九組
+###week4_團體任務2
+
+```{r}
+list(
+  Penny = "x86_64-apple-darwin13.4.0 (64-bit)",
+  Eva = "x86_64-w64-mingw32/x64 (64-bit)",
+  Owen = "x86_64-apple-darwin15.6.0 (64-bit)",
+  Gideon = "x86_64-apple-darwin15.6.0 (64-bit)",
+  Abbie = "x86_64-w64-mingw32/x64 (64-bit)",
+  Eddie = "x86_64-w64-mingw32/x64 (64-bit)"
+  )
+
+```
+
+
+
